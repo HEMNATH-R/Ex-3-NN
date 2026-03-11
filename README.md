@@ -101,7 +101,7 @@ predict(w1,w2,test)
 
 ```
 
-<H3>Output:</H3>
+## Output:
 
 <img width="594" height="430" alt="image" src="https://github.com/user-attachments/assets/cced0d4e-1c9e-4e77-8b81-84919392edfa" />
 
